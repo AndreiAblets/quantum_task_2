@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+
+# Data files
+train.csv
+hidden_test.csv
+
+# Model files
+*.h5
+*.pkl

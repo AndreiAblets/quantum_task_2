@@ -68,6 +68,7 @@ This project involves building a regression model to predict a target variable b
     predictions.csv: CSV file containing the predictions (generated after running predict.py).
 
 6. **Notes**:
+   
     Ensure that train.csv and hidden_test.csv are placed in the project directory before running the scripts.
     The scripts are designed to be executed from the terminal.
     The model architecture and hyperparameters can be adjusted in train.py for experimentation.

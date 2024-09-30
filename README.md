@@ -20,7 +20,7 @@ This project involves building a regression model to predict a target variable b
 #### Prerequisites
 
 - Python 3.6 or higher.
-- Virtual environment (recommended).
+- requirements.txt.
 
 ### Installation and usage
 
